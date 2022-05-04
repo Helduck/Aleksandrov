@@ -1,0 +1,2 @@
+Avg_requency 104.8 Hz
+quant step: 0.0129 Volts
